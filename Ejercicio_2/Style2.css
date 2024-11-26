@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(./tom.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+    color: #f06360; 
+}
+
+p {
+    font-size: 15px;
+    color: #000000; 
+}

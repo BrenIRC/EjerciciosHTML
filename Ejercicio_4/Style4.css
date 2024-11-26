@@ -1,0 +1,19 @@
+
+body {
+    background-image: url(./fonfdo_rosa.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+    color: #ac9249; 
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    font-size: 20px;
+    color: #6e6868; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
